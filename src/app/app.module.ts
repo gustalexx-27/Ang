@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 /* Componente que cree */
 import { miFooter } from './components/footer/footer';
 import { Menu } from './components/Menu/menu';
-import { heroComponent } from './components/hero/Hero';
+import { heroComponent } from './components/hero/hero';
 
 /*En declarations podemos agregar los componentes que desarrollemos aqui y podamos usarlo en cualquier aplicaicon*/
 @NgModule({
